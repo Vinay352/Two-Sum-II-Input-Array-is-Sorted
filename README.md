@@ -3,5 +3,7 @@ Given a 1-indexed array of integers numbers that is already sorted in non-decrea
 
 
 Leetcode Question: Two Sum II - input array is sorted (https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/)
+
 Difficulty: Medium
+
 Complexity: O(n)
